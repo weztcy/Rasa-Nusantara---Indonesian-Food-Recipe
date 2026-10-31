@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Recipe</string>
+
+    <!-- Main Activity -->
+    <string name="app_title">Rasa Nusantara</string>
+    <string name="recipe_section_title">Jelajahi Resep Lezat Makanan Indonesia 🍲</string>
+
+    <!-- Recipe Item -->
+    <string name="recipe_image">Recipe image</string>
+    <string name="sample_recipe_name">Nasi Goreng</string>
+    <string name="sample_recipe_description">Nasi goreng sederhana dengan rasa gurih dan manis yang mudah dibuat di rumah.</string>
+    <string name="sample_cooking_time">⏱ 20 menit</string>
+    <string name="sample_difficulty">Mudah</string>
+
+    <!-- Detail Activity -->
+    <string name="description_title">Deskripsi</string>
+    <string name="ingredients_title">Bahan-bahan</string>
+    <string name="steps_title">Cara Membuat</string>
+
+    <string name="sample_detail_description">Nasi goreng sederhana dengan rasa gurih dan manis yang cocok untuk dinikmati kapan saja.</string>
+
+    <string name="sample_ingredients">• 1 piring nasi putih\n• 1 butir telur\n• 2 siung bawang putih</string>
+
+    <string name="sample_steps">1. Panaskan minyak.\n\n2. Tumis bawang hingga harum.\n\n3. Masukkan nasi dan bumbu.</string>
+
+</resources>

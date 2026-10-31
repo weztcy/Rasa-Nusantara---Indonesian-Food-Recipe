@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Recipe"
+        parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- Primary Color -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+
+        <!-- Background -->
+        <item name="android:windowBackground">@color/background</item>
+
+        <!-- Status Bar -->
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        <!-- Navigation Bar -->
+        <item name="android:navigationBarColor">@color/background</item>
+        <item name="android:windowLightNavigationBar">true</item>
+
+        <!-- Default Text -->
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+
+        <!-- Disable default ActionBar -->
+        <item name="windowActionModeOverlay">true</item>
+
+    </style>
+
+</resources>
